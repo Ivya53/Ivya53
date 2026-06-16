@@ -35,3 +35,15 @@ Repository:
 </details>
 
 
+# 🚀 TECHNOLOGY STACK 
+- python
+- php
+- java
+- c#
+- html
+- css
+- kotlin
+- mysql
+
+
+
