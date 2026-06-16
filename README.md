@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hi there , Im Divyadarshini👋
 
-<!--
-**Ivya53/Ivya53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Full Stack Developer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🚀 Featured Projects
+
+## 🛒 Sony 
+
+Inventory and order management system built with PHP and MySQL.
+
+### Features
+- User Management
+- Product Management
+- Order Management
+- Stock Alerts
+-Admin Portal to Manage and track all the activity
+
+Repository:
+[Sony](https://github.com/Ivya53/sony.git)
+
+##Preview
+![Landing Page.png](adminpanel.png)
+<details>
+<summary>📸 More Screenshots</summary>
+  
+![Product Crud.png](crud.png)
+![Order List.png](orderlist.png)
+![Order Crud.png](ordercrud.png)
+![Perform Crud.png](performcrud2.png)
+![Stock Alert.png](stockalert.png)
+![View Product.png](viewproduct.png)
+![View Users.png](viewusers.png)
+  
+</details>
+
+
